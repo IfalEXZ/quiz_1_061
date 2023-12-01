@@ -1,3 +1,4 @@
 # quiz_1_061 - Artificial Intelligence
-Name : Ifal Fahri A
-NIM : F55122061
+| Nama | NIM | Kelas |
+| ----------- | ----------- | ----------- |
+| Ifal Fahri A | F55122061 | B |
